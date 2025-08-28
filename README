@@ -1,8 +1,4 @@
-# AnnotateWeb.com - A Webfuse-Powered Web Annotation Tool
-
-[![Powered by Webfuse](https://img.shields.io/badge/Powered%20by-Webfuse-blueviolet)](https://webfuse.com)
-
-**Visit the live demo: [https://annotateweb.com](https://annotateweb.com)**
+# AnnotateWeb.com
 
 `annotateweb.com` is a web annotation and collaboration tool for drawing, highlighting, and commenting on live websites. It requires no installation for the end-user. This repository holds the client-side code for the annotation functionality.
 
